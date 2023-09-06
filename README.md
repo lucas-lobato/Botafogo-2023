@@ -1,5 +1,7 @@
 # Botafogo-2023
 
+<img src="/pngwing.com.png">
+
 ## Visão Geral
 
 Bem-vindo ao Projeto de Análise de Dados do Botafogo! Este repositório contém dados relacionados ao time de futebol Botafogo, que foram  coletados, organizados e apresentados de forma dinâmica e informativa usando o Power BI.
